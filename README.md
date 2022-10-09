@@ -14,19 +14,19 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd bootcampStarter
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+  npm install --force
 ```
 
 Start the server
 
 ```bash
-  npm run start
+  npm start
 ```
 
 ## Environment Variables
