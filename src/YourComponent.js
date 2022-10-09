@@ -33,17 +33,18 @@ export default function YourComponent() {
             Starter Boilerplate Repo
           </Heading>
           <Center pb={"8"}>
-            <ConnectButton/>
+            <ConnectButton />
           </Center>
           <Text color={"white"}>
             This repository is preloaded with all the required polyfills and
             other patches needed to create a dApp on the latest versions of
-            React. It is also preloaded with the latest patched version of{" "}
-            <b>RainbowKit</b> for easy integration of wallets with your dApp
-            alongside Chakra UI for a quick component library.
+            React via <b>Create React App</b>. Included already to accelerate
+            your build process are <b>RainbowKit</b>, <b>Truffle</b> and{" "}
+            <b>Chakra UI</b>.
           </Text>
         </Box>
       </Center>
+      ß
     </Box>
   );
 }
